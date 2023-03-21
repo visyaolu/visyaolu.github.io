@@ -22,8 +22,9 @@ I am a machine learning master with research interests in Graph Neural Networks.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Two papers are accepted by Machine Learning!
+- *2022.02*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS 2022!
+- *2022.02*: &nbsp;🎉🎉 One paper is accepted by ICML 2022!
 
 # 📝 Publications 
 
@@ -39,6 +40,7 @@ I am a machine learning master with research interests in Graph Neural Networks.
 </div>
 </div>
 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
