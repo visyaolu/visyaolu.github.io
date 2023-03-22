@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a machine learning master with research interests in Graph Neural Networks. I am now from School of Data Science & Engineering in East China Normal University, where I am very fortunate to be advised by professor Lixiang in GAMA LAB.My research interests include topics in machine learning and data mining. Most recently, I am interested in the following topics:
+I am a machine learning master with research interests in Graph Neural Networks. I am now from School of Data Science and Engineering in East China Normal University, where I am very fortunate to be advised by professor Lixiang in GAMA LAB.My research interests include topics in machine learning and data mining. Most recently, I am interested in the following topics:
 - Graph Neural Networks.
 - Open Environment Machine Learning 
 - Weakly Supervised Learning
@@ -30,20 +30,20 @@ I am a machine learning master with research interests in Graph Neural Networks.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Lixiang**,**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div>s
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [LPL S13 finals MVP top](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
+- [KPL S32 finals MVP daye——nakelulu](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
 
 # 🎖 Honors and Awards
 - *2021.10* Excellent Doctoral Dissertation Award, Computer Science and Technology, Nanjing Normal University
