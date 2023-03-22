@@ -40,7 +40,7 @@ I am a machine learning master with research interests in Graph Neural Networks.
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>s
+</div>
 
 - [LPL S13 finals MVP top](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
 - [KPL S32 finals MVP daye——nakelulu](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
