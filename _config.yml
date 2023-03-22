@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gong Chenghua"
-description              : "This is my page"
+description              : "Data Science"
 repository               : "gongchenghua/gongchenghua.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gong Chenghua"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ECNU"
+  bio              : "School of Data Science & Engineering"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
