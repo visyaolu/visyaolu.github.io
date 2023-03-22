@@ -18,8 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a machine learning master with research interests in Graph Neural Networks. I am now from Department of Data Science and Technology in East China Normal University, where I am very fortunate to be advised by professor Lixiang in GAMA LAB.
-
+I am a machine learning master with research interests in Graph Neural Networks. I am now from School of Data Science & Engineering in East China Normal University, where I am very fortunate to be advised by professor Lixiang in GAMA LAB.My research interests include topics in machine learning and data mining. Most recently, I am interested in the following topics:
+- Graph Neural Networks.
+- Open Environment Machine Learning 
+- Weakly Supervised Learning
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Two papers are accepted by Machine Learning!
@@ -44,16 +46,18 @@ I am a machine learning master with research interests in Graph Neural Networks.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Excellent Doctoral Dissertation Award, Computer Science and Technology, Nanjing Normal University
+- *2021.09* GuoRui Scholarship, 2019
+- *2018.05* ACM-ICPC Asia Regional Contest, Sliver Medal: Mudanjiang Site
+- *2018.05* ACM-ICPC Asia Regional Contest, Sliver Medal: BeiJing Site
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - 2023.03 (now)*, East China Normal University
+- *2018.09 - 2022.06*, Nanjing Normal University 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, Nanjing Normal University 
+- *2021.03*, Nanjing Normal University 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, Microsoft MRSA, China.
