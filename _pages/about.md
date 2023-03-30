@@ -26,6 +26,8 @@ Biography：Lu Yao is currently a professor of the Department of Electronics and
 - *2022.01*: &nbsp;🎉🎉 One papers are accepted by ICASSP 2022!
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2022!
 
+<span class='anchor' id='selected-pulications'></span>
+
 # 📝 Selected Publications 
 
 - Shunzhou Wang, Tianfei Zhou, **Yao Lu**$$\dagger$$, Huijun Di, Contextual Transformation Network for Lightweight Remote-Sensing Image Super-Resolution, IEEE Trans. Geosci. Remote. Sens. 60: 1-13 (2022)
