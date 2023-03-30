@@ -46,7 +46,7 @@ Biography：Lu Yao is currently a professor of the Department of Electronics and
 - Lijing Zhang, **Yao Lu**, Ge Song, Hanfeng Zheng, RC-CNN: Reverse Connected Convolutional Neural Network for Accurate Player Detection, PRICAI 2018: 438-446
 - Tianfei Zhou, **Yao Lu**, Huijun Di, Locality-Constrained Collaborative Model for Robust Visual Tracking, IEEE Trans. Circuits Syst. Video Technol. 27(2): 313-325 (2017)
 - Ming Qin, **Yao Lu**, Huijun Di, Wei Huang, A Background Basis Selection-Based Foreground Detection Method, IEEE Trans. Multim. 18(7): 1283-1296 (2016)
-- Huijun Di, Qingxuan Shi, Feng Lv, Ming Qin, **Yao Lu** Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment, ICCV 2015: 4355-4363
+- Huijun Di, Qingxuan Shi, Feng Lv, Ming Qin, **Yao Lu**, Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment, ICCV 2015: 4355-4363
 
 # 🎖 Group
 - Shunzhou Wang (Ph.D student, 2018-)
