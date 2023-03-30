@@ -28,25 +28,25 @@ Biography：Lu Yao is currently a professor of the Department of Electronics and
 
 # 📝 Selected Publications 
 
-- Shunzhou Wang, Tianfei Zhou, **Yao Lu**, Huijun Di, Contextual Transformation Network for Lightweight Remote-Sensing Image Super-Resolution, IEEE Trans. Geosci. Remote. Sens. 60: 1-13 (2022)
-- Shunzhou Wang, Tianfei Zhou, **Yao Lu**, Huijun Di, Detail-Preserving Transformer for Light Field Image Super-resolution, AAAI 2022: 2522-2530
-- Yan Wang, **Yao Lu**, Shunzhou Wang, Wenyao Zhang, Zijian Wang, Local-Global Feature Aggregation for Light Field Image Super-Resolution, ICASSP 2022: 2160-2164
-- Zijian Wang, **Yao Lu**, Multi-Granularity Aggregation Transformer for Light Field Image Super-Resolution, ICIP 2022: 261-265
-- Zijian Wang, **Yao Lu**, Weiqi Li, Shunzhou Wang, Xuebo Wang, Xiaozhen Chen, Single image super-resolution with attention-based densely connected module, Neurocomputing 453: 876-884 (2021)
-- Xiaozhen Chen, Xuebo Wang, **Yao Lu**, Weiqi Li, Zijian Wang, Zhuowei Huang, RBPNET: An asymptotic Residual Back-Projection Network for super-resolution of very low-resolution face image, Neurocomputing 376: 119-127 (2020)
-- Shunzhou Wang, **Yao Lu**, Tianfei Zhou, Huijun Di, Lihua Lu, Lin Zhang, SCLNet: Spatial context learning network for congested crowd counting, Neurocomputing 404: 227-239 (2020)
-- Lihua Lu, **Yao Lu**, Ruizhe Yu, Huijun Di, Lin Zhang, Shunzhou Wang, GAIM: Graph Attention Interaction Model for Collective Activity Recognition, IEEE Trans. Multim. 22(2): 524-539 (2020)
-- Yujun Xie, **Yao Lu**, Shunzhou Wang, RSANet: Deep Recurrent Scale-Aware Network for Crowd Counting, ICIP 2020: 1531-1535
-- Gongping Li, **Yao Lu**, Lihua Lu, Ziwei Wu, Xuebo Wang, Shunzhou Wang, Semi-Blind Super-Resolution with Kernel-Guided Feature Modification, ICME Workshops 2020: 1-6
-- Lin Zhang, **Yao Lu**, Lihua Lu, Tianfei Zhou, Refined video segmentation through global appearance regression, Neurocomputing 334: 59-67 (2019)
-- Lihua Lu, Huijun Di, **Yao Lu**, Lin Zhang, Shunzhou Wang, Spatio-temporal attention mechanisms based model for collective activity recognition, Signal Process. Image Commun. 74: 162-174 (2019)
-- Ruizhe Yu, Shunzhou Wang, **Yao Lu**, Huijun Di, Lin Zhang, Lihua Lu, SAF: Semantic Attention Fusion Mechanism for Pedestrian Detection), PRICAI (2) 2019: 523-533
-- Lihua Lu, Huijun Di, **Yao Lu**, Lin Zhang, Shunzhou Wang, A two-level attention-based interaction model for multi-person activity recognition, Neurocomputing 322: 195-205 (2018)
-- Haoyu Wang, **Yao Lu**, Soccer Video Super-Resolution via Sub-Pixel Convolutional Neural Network, IJCNN 2018: 1-8
-- Lijing Zhang, **Yao Lu**, Ge Song, Hanfeng Zheng, RC-CNN: Reverse Connected Convolutional Neural Network for Accurate Player Detection, PRICAI 2018: 438-446
-- Tianfei Zhou, **Yao Lu**, Huijun Di, Locality-Constrained Collaborative Model for Robust Visual Tracking, IEEE Trans. Circuits Syst. Video Technol. 27(2): 313-325 (2017)
-- Ming Qin, **Yao Lu**, Huijun Di, Wei Huang, A Background Basis Selection-Based Foreground Detection Method, IEEE Trans. Multim. 18(7): 1283-1296 (2016)
-- Huijun Di, Qingxuan Shi, Feng Lv, Ming Qin, **Yao Lu**, Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment, ICCV 2015: 4355-4363
+- Shunzhou Wang, Tianfei Zhou, **Yao Lu**$$\dagger$$, Huijun Di, Contextual Transformation Network for Lightweight Remote-Sensing Image Super-Resolution, IEEE Trans. Geosci. Remote. Sens. 60: 1-13 (2022)
+- Shunzhou Wang, Tianfei Zhou, **Yao Lu**$$\dagger$$, Huijun Di, Detail-Preserving Transformer for Light Field Image Super-resolution, AAAI 2022: 2522-2530
+- Yan Wang, **Yao Lu**$$\dagger$$, Shunzhou Wang, Wenyao Zhang, Zijian Wang, Local-Global Feature Aggregation for Light Field Image Super-Resolution, ICASSP 2022: 2160-2164
+- Zijian Wang, **Yao Lu**$$\dagger$$, Multi-Granularity Aggregation Transformer for Light Field Image Super-Resolution, ICIP 2022: 261-265
+- Zijian Wang, **Yao Lu**$$\dagger$$, Weiqi Li, Shunzhou Wang, Xuebo Wang, Xiaozhen Chen, Single image super-resolution with attention-based densely connected module, Neurocomputing 453: 876-884 (2021)
+- Xiaozhen Chen, Xuebo Wang, **Yao Lu**$$\dagger$$, Weiqi Li, Zijian Wang, Zhuowei Huang, RBPNET: An asymptotic Residual Back-Projection Network for super-resolution of very low-resolution face image, Neurocomputing 376: 119-127 (2020)
+- Shunzhou Wang, **Yao Lu**$$\dagger$$, Tianfei Zhou, Huijun Di, Lihua Lu, Lin Zhang, SCLNet: Spatial context learning network for congested crowd counting, Neurocomputing 404: 227-239 (2020)
+- Lihua Lu, **Yao Lu**$$\dagger$$, Ruizhe Yu, Huijun Di, Lin Zhang, Shunzhou Wang, GAIM: Graph Attention Interaction Model for Collective Activity Recognition, IEEE Trans. Multim. 22(2): 524-539 (2020)
+- Yujun Xie, **Yao Lu**$$\dagger$$, Shunzhou Wang, RSANet: Deep Recurrent Scale-Aware Network for Crowd Counting, ICIP 2020: 1531-1535
+- Gongping Li, **Yao Lu**$$\dagger$$, Lihua Lu, Ziwei Wu, Xuebo Wang, Shunzhou Wang, Semi-Blind Super-Resolution with Kernel-Guided Feature Modification, ICME Workshops 2020: 1-6
+- Lin Zhang, **Yao Lu**$$\dagger$$, Lihua Lu, Tianfei Zhou, Refined video segmentation through global appearance regression, Neurocomputing 334: 59-67 (2019)
+- Lihua Lu, Huijun Di, **Yao Lu**$$\dagger$$, Lin Zhang, Shunzhou Wang, Spatio-temporal attention mechanisms based model for collective activity recognition, Signal Process. Image Commun. 74: 162-174 (2019)
+- Ruizhe Yu, Shunzhou Wang, **Yao Lu**$$\dagger$$, Huijun Di, Lin Zhang, Lihua Lu, SAF: Semantic Attention Fusion Mechanism for Pedestrian Detection), PRICAI (2) 2019: 523-533
+- Lihua Lu, Huijun Di, **Yao Lu**$$\dagger$$, Lin Zhang, Shunzhou Wang, A two-level attention-based interaction model for multi-person activity recognition, Neurocomputing 322: 195-205 (2018)
+- Haoyu Wang, **Yao Lu**$$\dagger$$, Soccer Video Super-Resolution via Sub-Pixel Convolutional Neural Network, IJCNN 2018: 1-8
+- Lijing Zhang, **Yao Lu**$$\dagger$$, Ge Song, Hanfeng Zheng, RC-CNN: Reverse Connected Convolutional Neural Network for Accurate Player Detection, PRICAI 2018: 438-446
+- Tianfei Zhou, **Yao Lu**$$\dagger$$, Huijun Di, Locality-Constrained Collaborative Model for Robust Visual Tracking, IEEE Trans. Circuits Syst. Video Technol. 27(2): 313-325 (2017)
+- Ming Qin, **Yao Lu**$$\dagger$$, Huijun Di, Wei Huang, A Background Basis Selection-Based Foreground Detection Method, IEEE Trans. Multim. 18(7): 1283-1296 (2016)
+- Huijun Di, Qingxuan Shi, Feng Lv, Ming Qin, **Yao Lu**$$\dagger$$, Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment, ICCV 2015: 4355-4363
 
 # 🎖 Group
 - Shunzhou Wang (Ph.D student, 2018-)
