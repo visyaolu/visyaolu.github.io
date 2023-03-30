@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yao Lu"
-description              : 
+description              : "Computer Vision & Image Processing"
 repository               : "visyaolu/visyaolu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "Computer Vision & Image Processing"
+  googlescholar    :
   email            : "vis_yl@smbu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
