@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#slected-publications"
+    url: "/#selected-publications"
 
   - title: "Group"
     url: "/#-group"
