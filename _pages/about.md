@@ -21,6 +21,7 @@ redirect_from:
 Yao Lu is a Professor at the Department of Engineering at Shenzhen MSU-BIT University. Before that, he is a Professor and a Ph.D. supervisor at the School of Computer Science of the Beijing Institute of Technology. His research interests include machine learning, neural network, computer vision, image processing, etc. He has published more than 150 papers in IEEE TIP, TMM, TCSVT, TGRS, and other international famous journals, as well as in CVPR, ICCV, AAAI, ICME, ICIP, and other international famous conferences. He has completed more than 30 projects, such as the National Natural Science Foundation of China, National Key Program R&D, the Doctoral Program Fund of the Ministry of Education, Guangdong Provincial Key Fields Projects, and Several Aerospace Projects. He is also the reviewer for several international journals and conferences, including IEEE TPAMI, TIP, TMM, TCSVT, TNNLS, CVPR, ICCV, AAAI, MM, etc. He is a Fellowship of the Japan Society for the Promotion of Science(JSPS), a visiting professor of Gunma University in Japan and the University of Technology Sydney, Australia, a member of the IEEE/ACM Association, a member of the CCF Vision Committee, a member of the Changjiang Scholars Evaluation Expert Group of the Ministry of Education, a member of the Evaluation Expert Group of the National Award Office, etc.
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME2024!
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ICIP 2022!
 - *2022.01*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022!
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2022!
@@ -41,15 +42,15 @@ Yao Lu is a Professor at the Department of Engineering at Shenzhen MSU-BIT Unive
 - Xiuzhuang Zhou, **Yao Lu**$$\dagger$$, Abrupt motion tracking via adaptive stochastic approximation Monte Carlo sampling, CVPR 2010: 1847-1854
 
 # 🎖 Group
-- Shunzhou Wang (Ph.D student, 2018-)
-- Yan Wang (Master student, 2020-)
-- Sijia Zhang (Master student, 2020-)
-- Zichun Zhang (Master student, 2020-)
-- Watanabe Aki (Master student, 2021-)
+- Shunzhou Wang (Ph.D student, 2018-2023)
+- Yan Wang (Master student, 2020-2023)
+- Sijia Zhang (Master student, 2020-2023)
+- Zichun Zhang (Master student, 2020-2023)
+- Watanabe Aki (Master student, 2021-2023)
 - Wang Xia (Master student, 2022-)
 - Peiqi Xia (Master student, 2022-)
 - Ziqi Wang (Master student, 2022-)
-
+- Yue Yan (Master student, 2023-)
 
 # 💬 Teaching
 - *2022.09 - 2022.12*, Analogue Electronics 
