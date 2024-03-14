@@ -42,15 +42,15 @@ Yao Lu is a Professor at the Department of Engineering at Shenzhen MSU-BIT Unive
 - Xiuzhuang Zhou, **Yao Lu**$$\dagger$$, Abrupt motion tracking via adaptive stochastic approximation Monte Carlo sampling, CVPR 2010: 1847-1854
 
 # 🎖 Group
+- Wang Xia (Master student, 2022-)
+- Peiqi Xia (Master student, 2022-)
+- Ziqi Wang (Master student, 2022-)
+- Yue Yan (Master student, 2023-)
 - Shunzhou Wang (Ph.D student, 2018-2023)
 - Yan Wang (Master student, 2020-2023)
 - Sijia Zhang (Master student, 2020-2023)
 - Zichun Zhang (Master student, 2020-2023)
 - Watanabe Aki (Master student, 2021-2023)
-- Wang Xia (Master student, 2022-)
-- Peiqi Xia (Master student, 2022-)
-- Ziqi Wang (Master student, 2022-)
-- Yue Yan (Master student, 2023-)
 
 # 💬 Teaching
 - *2022.09 - 2022.12*, Analogue Electronics 
